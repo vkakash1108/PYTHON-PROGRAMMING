@@ -34,3 +34,15 @@ DAY 3:-
 8.anagram
 9.pattern 
 10.operations
+
+DAY 4:-
+1.fizz buzz
+2.student user in college
+3.no. are smaller 
+4.valid  palllindrome
+5.minimum numbers of jumps
+6.declar the strings
+7.count sorted vowels
+8.roman to integer
+9.seasons
+10.scramble strings
